@@ -2,3 +2,4 @@
 
 Example how partial update can be implemented if we have Spring Boot REST datasource behind Apollo GraphQL.
 
+
